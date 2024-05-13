@@ -1,16 +1,82 @@
-# altevo-vs-extensions README
+# Altevo VS Extensions
 
-## Working with Markdown
+This is a collection of extensions used by Altevo.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Extensions Included
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+- [SQL Formatter](https://marketplace.visualstudio.com/items?itemName=adpyke.vscode-sql-formatter)
+- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.bookmarks)
+- [CodeWhisperer for Command Line Companion](https://marketplace.visualstudio.com/items?itemName=amazonwebservices.codewhisperer-for-command-line-companion)
+- [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=angular.ng-template)
+- [GitHub Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview)
+- [Markdown Checkboxes](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-checkbox)
+- [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji)
+- [Markdown Footnotes](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-footnotes)
+- [Markdown Mermaid](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
+- [Markdown Preview GitHub Styles](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
+- [Markdown YAML Preamble](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-yaml-preamble)
+- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+- [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=chakrounanas.turbo-console-log)
+- [SQL Beautify](https://marketplace.visualstudio.com/items?itemName=clarkyu.vscode-sql-beautify)
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [Composer PHP](https://marketplace.visualstudio.com/items?itemName=devsense.composer-php-vscode)
+- [Intelli PHP](https://marketplace.visualstudio.com/items?itemName=devsense.intelli-php-vscode)
+- [PHP Tools](https://marketplace.visualstudio.com/items?itemName=devsense.phptools-vscode)
+- [XML Tools](https://marketplace.visualstudio.com/items?itemName=dotjoshjohnson.xml)
+- [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+- [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- [Dotnet](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet)
+- [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=github.copilot)
+- [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=github.copilot-chat)
+- [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=github.github-vscode-theme)
+- [Todo Tree](https://marketplace.visualstudio.com/items?itemName=gruntfuggly.todo-tree)
+- [Oh Lucy!](https://marketplace.visualstudio.com/items?itemName=hermitter.oh-lucy-vscode)
+- [Auto Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
+- [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=ibm.output-colorizer)
+- [PlantUML](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
+- [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+- [Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)
+- [CodeMetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics)
+- [Gutter Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
+- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+- [Document](https://marketplace.visualstudio.com/items?itemName=mintlify.document)
+- [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+- [French Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-ceintl.vscode-language-pack-fr)
+- [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
+- [Dotnet Runtime](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime)
+- [SQL Server (mssql)](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
+- [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+- [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+- [Remote - SSH: Edit](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit)
+- [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
+- [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
+- [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.powershell)
+- [Remote Explorer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer)
+- [Remote Server](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-server)
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare)
+- [Paste Image](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image)
+- [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+- [Jest](https://marketplace.visualstudio.com/items?itemName=orta.vscode-jest)
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=pkief.material-icon-theme)
+- [Quicktype](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
+- [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
+- [XML Language Support by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
+- [YAML Language Support by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+- [Preview](https://marketplace.visualstudio.com/items?itemName=searking.preview-vscode)
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+- [Code Spell Checker - French](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-french)
+- [Volar](https://marketplace.visualstudio.com/items?itemName=vue.volar)
+- [Vuetify](https://marketplace.visualstudio.com/items?itemName=vuetifyjs.vuetify-vscode)
+- [Console Ninja](https://marketplace.visualstudio.com/items?itemName=wallabyjs.console-ninja)
+- [Quokka.js](https://marketplace.visualstudio.com/items?itemName=wallabyjs.quokka-vscode)
+- [Todo Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+- [Twig](https://marketplace.visualstudio.com/items?itemName=whatwedo.twig)
+- [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+- [Material Theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.material-theme)
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Enjoy!
