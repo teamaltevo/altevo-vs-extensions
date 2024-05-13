@@ -2,7 +2,10 @@
   "name": "altevo-vs-extensions",
   "displayName": "altevo-vs-extensions",
   "description": "Extensions used by Altevo",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "repository": "github:teamaltevo/altevo-vs-extensions",
+  "publisher": "TeamAltevo",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.89.0"
   },
