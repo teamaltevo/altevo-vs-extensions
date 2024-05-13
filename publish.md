@@ -1,4 +1,4 @@
- Setup la première fois:
+git pu Setup la première fois:
  1. Générer un access token sur https://dev.azure.com/altevo/
  2. npm install -g @vscode/vsce 
  3. vsce login TeamAltevo
